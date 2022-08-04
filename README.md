@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Deen-Abdultawab
 - 👀 I’m interested in web development, frontend specifically
 - 🌱 I’m currently learning vanilla JavaScript
-- 💞️ I’m looking for internships or collab projects that can improve my skillsets 
+- 💞️ I’m open to offers, internships or collab projects that can improve my skillsets 
 - 📫 How to reach me mail: abdultawabsalawudeen@gmail.com || twitter: @Sdeen_official
 
 <!---
