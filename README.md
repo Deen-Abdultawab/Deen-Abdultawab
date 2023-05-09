@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdultawab
-- 👀 I'm an inspiring Frontend Developer with a strong desore to learn and improve.
-- 🌱 Currently learning vue.js!
+- 👀 I am a Frontend Developer with a strong desire to learn and improve.
+- 🌱 I enjoy building web apps that provides real time solutions and great user experience
 - 💞️ I’m open to internships or collab projects that can improve my skillsets and coding tips on structuing and standards
 - 📫 How to reach me mail: abdultawabsalawudeen@gmail.com || twitter: @Sdeen_official
 
