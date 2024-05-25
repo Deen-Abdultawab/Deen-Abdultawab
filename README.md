@@ -1,8 +1,15 @@
-- 👋 Hi, I’m Abdultawab
-- 👀 I am a Frontend Developer with a strong desire to learn and improve.
-- 🌱 I enjoy building web apps that provides real time solutions and great user experience
-- 💞️ I’m open to internships or collab projects that can improve my skillsets and coding tips on structuing and standards
-- 📫 How to reach me mail: abdultawabsalawudeen@gmail.com || twitter: @Sdeen_official
+<h1 align="center">Hi 👋, I'm Abdultawab</h1>
+<h2 align="center"> A Frontend Developer </h2>
+Hello! I'm a budding frontend developer, I enjoy building web apps that provide real time solutions to real life problems. Actively on the look out for oppurtunuties to showcase my abilities, improve on existing skillset and rackup more experience
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deen-abdultawab&show_icons=true&locale=en&theme=synthwave" alt="kunle" /></p>
+
+## 🔗 Connect with me!
+You can reach me on my socials
+- Email: [abdultawabsalawudeen@gmail.com](mailto:abdultawabsalawudeen@gmail.comm)
+- Twitter: [Salawudeen Abdultawab](https://x.com/Sdeen_official)
+-  LinkedIn: [Salawudeen Abdultawab](https://www.linkedin.com/in/abdtawab99/)
+
 
 <!---
 Deen-Abdultawab/Deen-Abdultawab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
